@@ -1,0 +1,1 @@
+# Practica_IA_regresion_lineal_jupyter
